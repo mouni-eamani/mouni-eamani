@@ -30,3 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+
+  <img src="https://raw.githubusercontent.com/mouni-eamani/mouni-eamani/output/snake.svg" alt="Snake animation" />
+
+###
